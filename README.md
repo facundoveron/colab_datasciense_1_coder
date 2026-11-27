@@ -4,3 +4,5 @@ La idea de este repo ester todas las notebooks que voy creando para practicar in
 
 ## Distribucion de carpetas
 La idea es que cada carpeta es un proyecto independiente, asi centralizamos todos los proyectos en este repositorio.
+
+Solo existe una carpeta cross que cotiene .md's, con informacion de aprendizajes y definiciones que puedo consultar.
